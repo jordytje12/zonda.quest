@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1 class="font-bold text-2xl">Hello world</h1>
+<p>Dit is een test om te kijken of het allemaal nog wel werkt</p>
 </body>
 </html>
