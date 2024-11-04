@@ -1,5 +1,5 @@
 <x-head>
-    <title>Pixel positions</title>
+    <p>Home</p>
 </x-head>
 <body>
 <div class="bg-white">
